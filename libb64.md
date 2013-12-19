@@ -28,4 +28,7 @@ Encode/decode a string or cdata to a buffer.
 
 ## TODO
 
-Stream-like interface similar to zlib's inflate/deflate.
+Stream-like interface similar to zlib's inflate/deflate. \
+Benchmark against this pure ffi implementation[1].
+
+[1]: https://github.com/kengonakajima/luvit-base64/issues/1
