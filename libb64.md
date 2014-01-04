@@ -1,6 +1,7 @@
 ---
-project: libb64
-tagline: fast base64 encoding and decoding
+project:     libb64
+tagline:     fast base64 encoding and decoding
+category:    Internet Formats
 ---
 
 v1.0 | libb64 1.2 | LuaJIT 2
