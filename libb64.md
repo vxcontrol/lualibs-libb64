@@ -4,8 +4,6 @@ tagline:     fast base64 encoding and decoding
 category:    Internet Formats
 ---
 
-v1.0 | libb64 1.2 | LuaJIT 2
-
 ## `local b64 = require'libb64'`
 
 FFI binding of [libb64](http://libb64.sourceforge.net/), a fast base64 encoder and decoder by Chris Venter.
