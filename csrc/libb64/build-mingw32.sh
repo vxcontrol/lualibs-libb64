@@ -1,4 +1,4 @@
-gcc *.c -O3 -s -I. -shared -o ../../bin/mingw32/b64.dll -Wall
+gcc $CFLAGS *.c -shared -o ../../bin/mingw32/b64.dll -Wall -I.
 
 #cd ../.. && bin/luajit libb64_test.lua
 
