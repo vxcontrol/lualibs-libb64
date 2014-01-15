@@ -1,7 +1,6 @@
 ---
 project:     libb64
 tagline:     fast base64 encoding and decoding
-category:    Internet Formats
 ---
 
 ## `local b64 = require'libb64'`
