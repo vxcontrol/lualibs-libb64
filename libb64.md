@@ -1,6 +1,6 @@
 ---
-project:     libb64
-tagline:     fast base64 encoding and decoding
+project: libb64
+tagline: base64 encoding & decoding
 ---
 
 ## `local b64 = require'libb64'`
