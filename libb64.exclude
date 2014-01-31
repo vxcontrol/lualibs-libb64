@@ -1,12 +1,26 @@
 *
 !/bin/
-!/csrc/
 !/bin/mingw32/
+!/bin/mingw64/
 !/bin/linux32/
+!/bin/linux64/
+!/bin/osx32/
+!/bin/osx64/
+!/bin/mingw32/clib/
+!/bin/mingw64/clib/
+!/bin/linux32/clib/
+!/bin/linux64/clib/
+!/bin/osx32/clib/
+!/bin/osx64/clib/
+!/csrc/
 !/media/
 
 !/libb64*
 !/bin/mingw32/b64*
+!/bin/mingw64/b64*
 !/bin/linux32/libb64*
+!/bin/linux64/libb64*
+!/bin/osx32/libb64*
+!/bin/osx64/libb64*
 !/csrc/libb64/
 !/csrc/libb64/**
