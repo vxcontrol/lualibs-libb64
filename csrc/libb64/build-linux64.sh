@@ -1,1 +1,1 @@
-gcc -O2 -s -static-libgcc -fPIC *.c -shared -o ../../bin/linux64/libb64.so -Wall -I.
+P=linux64 C=-fPIC L="-s -static-libgcc" D=libb64.so A=libb64.a ./build.sh

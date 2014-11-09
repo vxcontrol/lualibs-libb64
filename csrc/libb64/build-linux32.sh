@@ -1,1 +1,1 @@
-gcc -O2 -s -static-libgcc *.c -shared -o ../../bin/linux32/libb64.so -Wall -I.
+P=linux32 L="-s -static-libgcc" D=libb64.so A=libb64.a ./build.sh

@@ -1,1 +1,1 @@
-gcc -O2 -s -static-libgcc *.c -shared -o ../../bin/mingw64/b64.dll -Wall -I.
+P=mingw64 L="-s -static-libgcc" D=b64.dll A=b64.a ./build.sh
