@@ -1,5 +1,4 @@
 ---
-project: libb64
 tagline: base64 encoding & decoding
 ---
 
